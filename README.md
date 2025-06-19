@@ -44,8 +44,8 @@ A powerful Python tool that downloads map tiles from ArcGIS REST services and cr
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/arcgis-mbtiles-mgrs.git
-cd arcgis-mbtiles-mgrs
+git clone https://github.com/polmt/mapBuilder.git
+cd mapBuilder
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -502,8 +502,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 
 ```bash
-git clone https://github.com/your-username/arcgis-mbtiles-mgrs.git
-cd arcgis-mbtiles-mgrs
+git clone https://github.com/polmt/mapBuilder.git
+cd mapBuilder
 python -m venv dev-env
 source dev-env/bin/activate  # Linux/macOS
 # or
@@ -539,9 +539,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/arcgis-mbtiles-mgrs/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/arcgis-mbtiles-mgrs/discussions)
-- **Documentation**: [Wiki](https://github.com/your-username/arcgis-mbtiles-mgrs/wiki)
+- **Issues**: [GitHub Issues](https://github.com/polmt/mapBuilder/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/polmt/mapBuilder/discussions)
+- **Documentation**: [Wiki](https://github.com/polmt/mapBuilder/wiki)
 
 ## 🔮 Roadmap
 
